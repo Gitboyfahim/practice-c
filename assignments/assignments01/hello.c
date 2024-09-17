@@ -11,7 +11,7 @@ scanf("%f",&marksub3);
 marktotal=marksub1+marksub2+marksub3;
 markaverage=(marksub1+marksub2+marksub3)/3;
 printf("The total is %.1f+%.1f+%.1f=%.2f\n",marksub1,marksub2,marksub3,marktotal);
-printf("Average is %.2f DIVIDED BY 3 EQUALS %.2f\n",marktotal,markaverage);
+printf("Average is %.2f divided by 3 equals %.2f\n",marktotal,markaverage);
 
 return 0;
 }
