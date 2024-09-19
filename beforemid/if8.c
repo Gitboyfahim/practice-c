@@ -9,11 +9,11 @@ num=num/10;
 b=num%10;
 c=num/10;
 
-if(a<b)
+if(a<=b)
 {
 	min=a;
 }
-if(c<a)
+if(c<=a)
 {
 	min=c;
 }
