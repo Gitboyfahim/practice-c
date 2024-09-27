@@ -5,7 +5,7 @@ int main()
 	int monthnum;
 printf("Enter number of month[1-12]: \n");
 scanf("%d",&monthnum);
-
+ 
 if(monthnum==1)
 {
 printf("Days =31\n");
